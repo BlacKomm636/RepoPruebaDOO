@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Usuario\Documents\GitHub\RepoPruebaDOO\ProyectoClaseDOO-master\PCH\.metadata\.plugins\org.eclipse.jdt.core
